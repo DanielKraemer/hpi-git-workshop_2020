@@ -10,3 +10,8 @@ Vom Beruf bin ich Fachinformatiker. Am openHPI git-Kurs nehme ich teil, da wir g
 * I'm a fire fighter
 * I like to teach other people my knowledge
 * I like riding my bike
+
+
+As John Lennon said:
+
+> Life is what happens while you're busy making other plans
